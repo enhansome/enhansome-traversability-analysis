@@ -1,0 +1,233 @@
+{
+  "items": [
+    {
+      "description": "2024.05.17 - Updated ICRA 2024 papers 2023.10.05 - Updated IROS 2023 papers",
+      "items": [],
+      "title": "Notice"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome papers list"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments",
+          "description": ", Cai et al., IROS 2023 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-08-23T22:18:27Z",
+            "owner": "mit-acl",
+            "repo": "mppi_numba",
+            "stars": 312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fast Traversability Estimation for Wild Visual Navigation",
+          "description": ", Frey et al., RSS 2023 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T11:31:35Z",
+            "owner": "leggedrobotics",
+            "repo": "wild_visual_navigation",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation",
+          "description": ", Leininger et al., ICRA 2024 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-25T03:32:57Z",
+            "owner": "abeleinin",
+            "repo": "gp-navigation",
+            "stars": 183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach",
+          "description": ", Cho et al., RA-L 2024| bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-05-04T04:14:25Z",
+            "owner": "Ikhyeon-Cho",
+            "repo": "LeSTA",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness",
+          "description": ", Gasparino et al., ICRA 2024 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-20T12:00:51Z",
+            "owner": "matval",
+            "repo": "wayfaster",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues",
+          "description": ", Jeon et al., ICRA 2024 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-07T08:25:25Z",
+            "owner": "yurimjeon1892",
+            "repo": "FtFoot",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "2023 - 2024 Papers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OctoMap: An efficient probabilistic 3D mapping framework based on octrees",
+          "description": ", Hornung et al., Autonomous Robots 2013 | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-02T17:47:50Z",
+            "owner": "OctoMap",
+            "repo": "octomap",
+            "stars": 2352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization",
+          "description": ", Fankhauser et al., RA-L 2018 | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-04T10:55:13Z",
+            "owner": "ANYbotics",
+            "repo": "elevation_mapping",
+            "stars": 1845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning",
+          "description": ", Oleynikova et al., IROS 2017 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-01T05:21:48Z",
+            "owner": "ethz-asl",
+            "repo": "voxblox",
+            "stars": 1662
+          }
+        }
+      ],
+      "title": "Geometry-based approaches"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments",
+          "description": ", Guan et al., RA-L 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-21T18:44:30Z",
+            "owner": "rayguan97",
+            "repo": "GANav-offroad",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning",
+          "description": ", Sathyamoorthy et al., IROS 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-04T19:43:45Z",
+            "owner": "AdarshJS",
+            "repo": "terrapn",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Appearance-based approaches"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BADGR: An Autonomous Self-Supervised Learning-Based Navigation System",
+          "description": ", Kahn et al., RA-L 2021 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-22T04:20:19Z",
+            "owner": "gkahn13",
+            "repo": "badgr",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning",
+          "description": ", Weerakoon et al., ICRA 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-22T19:18:00Z",
+            "owner": "kasunweerkoon",
+            "repo": "terp",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Terrain-aware Navigation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Public Datasets"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:13.382Z",
+    "original_repository": "Ikhyeon-Cho/awesome-traversability-analysis",
+    "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",
+    "enhanced_repository": "enhansome/enhansome-traversability-analysis",
+    "enhanced_repository_description": null,
+    "title": "Awesome Traversability Analysis with stars"
+  }
+}
