@@ -124,7 +124,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,353 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 
-* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,845 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
+* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,847 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
 * [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,662 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
@@ -133,11 +133,11 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Terrain Representation Learning </summary>
 
-* [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html), Mescheder et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1812.03828) | [bibtex](./terrain_traversability_analysis.bib#L90-L96) | [Github](https://github.com/autonomousvision/occupancy_networks) ⭐ 1,664 | 🐛 82 | 🌐 Python | 📅 2023-06-27
+* [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html), Mescheder et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1812.03828) | [bibtex](./terrain_traversability_analysis.bib#L90-L96) | [Github](https://github.com/autonomousvision/occupancy_networks) ⭐ 1,665 | 🐛 82 | 🌐 Python | 📅 2023-06-27
 
 * [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html), Part et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1901.05103) | [bibtex](./terrain_traversability_analysis.bib#L109-L115) | [Github](https://github.com/facebookresearch/DeepSDF) ⚠️ Archived
 
-* [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](), Zhao et al., arXiv 2024 | [arXiv](https://arxiv.org/abs/2404.06605) | [bibtex](./terrain_traversability_analysis.bib#L159-L164) | [Github](https://github.com/ztsrxh/RoadBEV) ⭐ 223 | 🐛 9 | 🌐 Python | 📅 2024-11-27
+* [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](), Zhao et al., arXiv 2024 | [arXiv](https://arxiv.org/abs/2404.06605) | [bibtex](./terrain_traversability_analysis.bib#L159-L164) | [Github](https://github.com/ztsrxh/RoadBEV) ⭐ 222 | 🐛 9 | 🌐 Python | 📅 2024-11-27
 
 * [Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference](https://ieeexplore.ieee.org/abstract/document/8713569), Doherty et al., T-RO 2019 | [bibtex](./terrain_traversability_analysis.bib#L98-L107) | [Github](https://github.com/RobustFieldAutonomyLab/la3dm) ⭐ 136 | 🐛 2 | 🌐 C++ | 📅 2023-11-24
 
@@ -158,7 +158,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [EVORA: Deep Evidential Traversability Learning for Risk-Aware Off-Road Autonomy](), Cai et al., arXiv 2023 | [arXiv](https://arxiv.org/abs/2311.06234) | [bibtex](./terrain_traversability_analysis.bib#L177-L182)
 
-* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 155 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
+* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 156 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
 
 * [STEP: Stochastic Traversability Evaluation and Planning for Risk-Aware Off-road Navigation](https://www.roboticsproceedings.org/rss17/p021.html), Fan et al., RSS 2021 | [arXiv](https://arxiv.org/abs/2103.02828) | [bibtex](./terrain_traversability_analysis.bib#L195-L203)
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
