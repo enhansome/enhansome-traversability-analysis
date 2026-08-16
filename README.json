@@ -114,7 +114,7 @@
             "last_commit": "2026-08-02T17:47:50Z",
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2353
+            "stars": 2354
           }
         },
         {
@@ -142,7 +142,7 @@
             "last_commit": "2024-07-01T05:21:48Z",
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1662
+            "stars": 1663
           }
         }
       ],
@@ -223,7 +223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:04:06.310Z",
+    "last_updated": "2026-08-16T05:12:37.676Z",
     "original_repository": "Ikhyeon-Cho/awesome-traversability-analysis",
     "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",
     "enhanced_repository": "enhansome/enhansome-traversability-analysis",
