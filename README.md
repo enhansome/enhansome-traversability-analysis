@@ -61,7 +61,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 114 | 🐛 4 | 🌐 C++ | 📅 2026-05-04
 
-* [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 79 | 🐛 2 | 🌐 Python | 📅 2024-06-20
+* [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2024-06-20
 
 * [Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues](), Jeon et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.15363)  | [bibtex](./traversability-papers-2023-2024.bib#L60-L65) | [Github](https://github.com/yurimjeon1892/FtFoot) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2026-02-07
 
@@ -122,9 +122,9 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,354 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,357 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 
-* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,847 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
+* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,849 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
 * [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,663 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
@@ -141,7 +141,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference](https://ieeexplore.ieee.org/abstract/document/8713569), Doherty et al., T-RO 2019 | [bibtex](./terrain_traversability_analysis.bib#L98-L107) | [Github](https://github.com/RobustFieldAutonomyLab/la3dm) ⭐ 136 | 🐛 2 | 🌐 C++ | 📅 2023-11-24
 
-* [Reconstructing Occluded Elevation Information in Terrain Maps With Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9676411/), Stolzle et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2109.07150) | [bibtex](./terrain_traversability_analysis.bib#L139-L148) | [Github](https://github.com/mstoelzle/solving-occlusion) ⭐ 56 | 🐛 6 | 🌐 Python | 📅 2023-03-01
+* [Reconstructing Occluded Elevation Information in Terrain Maps With Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9676411/), Stolzle et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2109.07150) | [bibtex](./terrain_traversability_analysis.bib#L139-L148) | [Github](https://github.com/mstoelzle/solving-occlusion) ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2023-03-01
 
 * [Bayesian generalized kernel inference for terrain traversability mapping](http://proceedings.mlr.press/v87/shan18a.html), Shan et al., CoRL 2018 | [arXiv](https://arxiv.org/abs/2301.00523) | [bibtex](./terrain_traversability_analysis.bib#L150-L157) | [Github](https://github.com/TixiaoShan/BGK_traversability_mapping) ⭐ 33 | 🐛 3 | 🌐 C++ | 📅 2019-04-28
 
@@ -250,7 +250,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Reinforcement Learning </summary>
 
-* [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://ieeexplore.ieee.org/abstract/document/9345970/), Kahn et al., RA-L 2021 | [arXiv](https://arxiv.org/abs/2002.05700) | [bibtex](./terrain_traversability_analysis.bib#L459-468) | [Github](https://github.com/gkahn13/badgr) ⭐ 160 | 🐛 12 | 🌐 Python | 📅 2022-11-22
+* [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://ieeexplore.ieee.org/abstract/document/9345970/), Kahn et al., RA-L 2021 | [arXiv](https://arxiv.org/abs/2002.05700) | [bibtex](./terrain_traversability_analysis.bib#L459-468) | [Github](https://github.com/gkahn13/badgr) ⭐ 159 | 🐛 12 | 🌐 Python | 📅 2022-11-22
 
 * [TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9812238/), Weerakoon et al., ICRA 2022 | [arXiv](https://arxiv.org/abs/2109.05120) | [bibtex](./terrain_traversability_analysis.bib#L481-488) | [Github](https://github.com/kasunweerkoon/terp) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2022-07-22
 
@@ -269,7 +269,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Driving on Point Clouds: Motion Planning, Trajectory Optimization, and Terrain Assessment in Generic Nonplanar Environments](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21700), Krusi et al., Journal of Field Robotics 2017 | [bibtex](./terrain_traversability_analysis.bib#L519-L528)
 
-* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 510 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
+* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 511 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
 
 * [Fuzzy Based Traversability Analysis for a Mobile Robot on Rough Terrain](https://ieeexplore.ieee.org/abstract/document/7139753), Tanaka et al., ICRA 2015 | [bibtex](./terrain_traversability_analysis.bib#L541-L550)
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
