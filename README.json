@@ -114,7 +114,7 @@
             "last_commit": "2026-08-02T17:47:50Z",
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2357
+            "stars": 2359
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2024-11-04T10:55:13Z",
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1849
+            "stars": 1850
           }
         },
         {
@@ -223,7 +223,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:14:24.906Z",
+    "last_updated": "2026-08-19T05:14:54.098Z",
     "original_repository": "Ikhyeon-Cho/awesome-traversability-analysis",
     "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",
     "enhanced_repository": "enhansome/enhansome-traversability-analysis",

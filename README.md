@@ -122,9 +122,9 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,357 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,359 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 
-* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,849 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
+* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,850 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
 * [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,663 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
@@ -269,7 +269,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Driving on Point Clouds: Motion Planning, Trajectory Optimization, and Terrain Assessment in Generic Nonplanar Environments](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21700), Krusi et al., Journal of Field Robotics 2017 | [bibtex](./terrain_traversability_analysis.bib#L519-L528)
 
-* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 511 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
+* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 512 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
 
 * [Fuzzy Based Traversability Analysis for a Mobile Robot on Rough Terrain](https://ieeexplore.ieee.org/abstract/document/7139753), Tanaka et al., ICRA 2015 | [bibtex](./terrain_traversability_analysis.bib#L541-L550)
 
@@ -290,7 +290,7 @@ Keep updating... Any PRs are welcome! 😃
 
 See more datasets at:
 
-* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,941 | 🐛 14 | 📅 2024-12-13
+* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,942 | 🐛 14 | 📅 2024-12-13
 * [awesome-autonomous-driving-dataasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) ⭐ 52 | 🐛 0 | 📅 2019-10-08
 
 ### Off-road (Unstructured) terrains
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
