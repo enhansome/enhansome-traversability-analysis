@@ -290,16 +290,16 @@ Keep updating... Any PRs are welcome! 😃
 
 See more datasets at:
 
-* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,942 | 🐛 14 | 📅 2024-12-13
+* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,943 | 🐛 14 | 📅 2024-12-13
 * [awesome-autonomous-driving-dataasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) ⭐ 52 | 🐛 0 | 📅 2019-10-08
 
 ### Off-road (Unstructured) terrains
 
 * [RELLIS-3D](https://www.unmannedlab.org/research/RELLIS-3D) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 * [RUGD](http://rugd.vision/) : Video dataset annotated with pixel-wise labels
-* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 303 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
+* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 304 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [GOOSE](https://goose-dataset.de/) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
