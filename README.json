@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-02T17:47:50Z",
                 "owner": "OctoMap",
                 "repo": "octomap",
-                "stars": 2361
+                "stars": 2362
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2024-11-04T10:55:13Z",
                 "owner": "ANYbotics",
                 "repo": "elevation_mapping",
-                "stars": 1852
+                "stars": 1853
               }
             },
             {
@@ -144,7 +144,7 @@
                 "last_commit": "2024-07-01T05:21:48Z",
                 "owner": "ethz-asl",
                 "repo": "voxblox",
-                "stars": 1664
+                "stars": 1665
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2023-06-27T00:23:54Z",
                 "owner": "autonomousvision",
                 "repo": "occupancy_networks",
-                "stars": 1665
+                "stars": 1664
               }
             },
             {
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:13:54.799Z",
+    "last_updated": "2026-08-24T05:25:10.977Z",
     "original_repository": "Ikhyeon-Cho/awesome-traversability-analysis",
     "original_repository_id": 785086542,
     "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",
