@@ -99,255 +99,327 @@
           "description": null,
           "node_type": "group",
           "title": "2023 - 2024 Papers"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "OctoMap: An efficient probabilistic 3D mapping framework based on octrees",
-              "description": ", Hornung et al., Autonomous Robots 2013 | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 7222017,
-                "language": "C++",
-                "last_commit": "2026-08-02T17:47:50Z",
-                "owner": "OctoMap",
-                "repo": "octomap",
-                "stars": 2362
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization",
-              "description": ", Fankhauser et al., RA-L 2018 | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 19574322,
-                "language": "C++",
-                "last_commit": "2024-11-04T10:55:13Z",
-                "owner": "ANYbotics",
-                "repo": "elevation_mapping",
-                "stars": 1853
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning",
-              "description": ", Oleynikova et al., IROS 2017 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 56137228,
-                "language": "C++",
-                "last_commit": "2024-07-01T05:21:48Z",
-                "owner": "ethz-asl",
-                "repo": "voxblox",
-                "stars": 1665
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
-              "description": ", Mescheder et al., CVPR 2019 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 178851471,
-                "language": "Python",
-                "last_commit": "2023-06-27T00:23:54Z",
-                "owner": "autonomousvision",
-                "repo": "occupancy_networks",
-                "stars": 1664
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation",
-              "description": ", Part et al., CVPR 2019 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "id": 173859173,
-                "language": "Python",
-                "last_commit": "2022-06-20T09:07:22Z",
-                "owner": "facebookresearch",
-                "repo": "DeepSDF",
-                "stars": 1563
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "RoadBEV: Road Surface Reconstruction in Bird’s Eye View",
-              "description": ", Zhao et al., arXiv 2024 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 782816649,
-                "language": "Python",
-                "last_commit": "2024-11-27T06:17:40Z",
-                "owner": "ztsrxh",
-                "repo": "RoadBEV",
-                "stars": 222
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference",
-              "description": ", Doherty et al., T-RO 2019 | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 79852322,
-                "language": "C++",
-                "last_commit": "2023-11-24T02:07:35Z",
-                "owner": "RobustFieldAutonomyLab",
-                "repo": "la3dm",
-                "stars": 136
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Reconstructing Occluded Elevation Information in Terrain Maps With Self-Supervised Learning",
-              "description": ", Stolzle et al., RA-L 2022 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 290744555,
-                "language": "Python",
-                "last_commit": "2023-03-01T19:58:10Z",
-                "owner": "mstoelzle",
-                "repo": "solving-occlusion",
-                "stars": 57
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Bayesian generalized kernel inference for terrain traversability mapping",
-              "description": ", Shan et al., CoRL 2018 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 183278094,
-                "language": "C++",
-                "last_commit": "2019-04-28T22:35:59Z",
-                "owner": "TixiaoShan",
-                "repo": "BGK_traversability_mapping",
-                "stars": 33
-              }
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Geometry-based approaches"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments",
-              "description": ", Guan et al., RA-L 2022 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 360252125,
-                "language": "Python",
-                "last_commit": "2025-01-21T18:44:30Z",
-                "owner": "rayguan97",
-                "repo": "GANav-offroad",
-                "stars": 153
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning",
-              "description": ", Sathyamoorthy et al., IROS 2022 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 433961183,
-                "language": "Python",
-                "last_commit": "2023-08-04T19:43:45Z",
-                "owner": "AdarshJS",
-                "repo": "terrapn",
-                "stars": 12
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Safe Robot Navigation via Multi-Modal Anomaly Detection",
-              "description": ", Wellhausen et al., RA-L 2020 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 233902850,
-                "language": "Python",
-                "last_commit": "2020-01-14T19:03:41Z",
-                "owner": "leggedrobotics",
-                "repo": "anomaly_navigation",
-                "stars": 43
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "GONet: A Semi-Supervised Deep Learning Approach For Traversability Estimation",
-              "description": ", Hirose et al., IROS 2018 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 152495972,
-                "language": "Python",
-                "last_commit": "2018-10-26T00:52:57Z",
-                "owner": "NHirose",
-                "repo": "GONET",
-                "stars": 13
-              }
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Appearance-based approaches"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "BADGR: An Autonomous Self-Supervised Learning-Based Navigation System",
-              "description": ", Kahn et al., RA-L 2021 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 239952250,
-                "language": "Python",
-                "last_commit": "2022-11-22T04:20:19Z",
-                "owner": "gkahn13",
-                "repo": "badgr",
-                "stars": 159
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning",
-              "description": ", Weerakoon et al., ICRA 2022 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 428382446,
-                "language": "Python",
-                "last_commit": "2022-07-22T19:18:00Z",
-                "owner": "kasunweerkoon",
-                "repo": "terp",
-                "stars": 39
-              }
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "Terrain-aware Navigation"
         }
       ],
       "title": "Awesome papers list"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OctoMap: An efficient probabilistic 3D mapping framework based on octrees",
+          "description": ", Hornung et al., Autonomous Robots 2013 | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7222017,
+            "language": "C++",
+            "last_commit": "2026-08-02T17:47:50Z",
+            "owner": "OctoMap",
+            "repo": "octomap",
+            "stars": 2363
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization",
+          "description": ", Fankhauser et al., RA-L 2018 | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19574322,
+            "language": "C++",
+            "last_commit": "2024-11-04T10:55:13Z",
+            "owner": "ANYbotics",
+            "repo": "elevation_mapping",
+            "stars": 1854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning",
+          "description": ", Oleynikova et al., IROS 2017 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56137228,
+            "language": "C++",
+            "last_commit": "2024-07-01T05:21:48Z",
+            "owner": "ethz-asl",
+            "repo": "voxblox",
+            "stars": 1666
+          }
+        }
+      ],
+      "title": "Dense Terrain Modeling"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
+          "description": ", Mescheder et al., CVPR 2019 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178851471,
+            "language": "Python",
+            "last_commit": "2023-06-27T00:23:54Z",
+            "owner": "autonomousvision",
+            "repo": "occupancy_networks",
+            "stars": 1664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation",
+          "description": ", Part et al., CVPR 2019 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 173859173,
+            "language": "Python",
+            "last_commit": "2022-06-20T09:07:22Z",
+            "owner": "facebookresearch",
+            "repo": "DeepSDF",
+            "stars": 1563
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoadBEV: Road Surface Reconstruction in Bird’s Eye View",
+          "description": ", Zhao et al., arXiv 2024 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 782816649,
+            "language": "Python",
+            "last_commit": "2024-11-27T06:17:40Z",
+            "owner": "ztsrxh",
+            "repo": "RoadBEV",
+            "stars": 222
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference",
+          "description": ", Doherty et al., T-RO 2019 | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79852322,
+            "language": "C++",
+            "last_commit": "2023-11-24T02:07:35Z",
+            "owner": "RobustFieldAutonomyLab",
+            "repo": "la3dm",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reconstructing Occluded Elevation Information in Terrain Maps With Self-Supervised Learning",
+          "description": ", Stolzle et al., RA-L 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 290744555,
+            "language": "Python",
+            "last_commit": "2023-03-01T19:58:10Z",
+            "owner": "mstoelzle",
+            "repo": "solving-occlusion",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bayesian generalized kernel inference for terrain traversability mapping",
+          "description": ", Shan et al., CoRL 2018 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183278094,
+            "language": "C++",
+            "last_commit": "2019-04-28T22:35:59Z",
+            "owner": "TixiaoShan",
+            "repo": "BGK_traversability_mapping",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Terrain Representation Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots",
+          "description": ", Ewen et al., RA-L 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 462435721,
+            "language": "C++",
+            "last_commit": "2025-08-05T02:30:56Z",
+            "owner": "roahmlab",
+            "repo": "sel_map",
+            "stars": 156
+          }
+        }
+      ],
+      "title": "Uncertainty & risk estimation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Learning Ground Traversability From Simulations",
+          "description": ", Chavez et al., RA-L 2018 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95764720,
+            "language": "Python",
+            "last_commit": "2023-03-11T12:54:39Z",
+            "owner": "romarcg",
+            "repo": "traversability_estimation",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Learning from demonstration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments",
+          "description": ", Guan et al., RA-L 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 360252125,
+            "language": "Python",
+            "last_commit": "2025-01-21T18:44:30Z",
+            "owner": "rayguan97",
+            "repo": "GANav-offroad",
+            "stars": 153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning",
+          "description": ", Sathyamoorthy et al., IROS 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 433961183,
+            "language": "Python",
+            "last_commit": "2023-08-04T19:43:45Z",
+            "owner": "AdarshJS",
+            "repo": "terrapn",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Image segmentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Safe Robot Navigation via Multi-Modal Anomaly Detection",
+          "description": ", Wellhausen et al., RA-L 2020 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233902850,
+            "language": "Python",
+            "last_commit": "2020-01-14T19:03:41Z",
+            "owner": "leggedrobotics",
+            "repo": "anomaly_navigation",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GONet: A Semi-Supervised Deep Learning Approach For Traversability Estimation",
+          "description": ", Hirose et al., IROS 2018 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152495972,
+            "language": "Python",
+            "last_commit": "2018-10-26T00:52:57Z",
+            "owner": "NHirose",
+            "repo": "GONET",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Learning from demonstration"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BADGR: An Autonomous Self-Supervised Learning-Based Navigation System",
+          "description": ", Kahn et al., RA-L 2021 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 239952250,
+            "language": "Python",
+            "last_commit": "2022-11-22T04:20:19Z",
+            "owner": "gkahn13",
+            "repo": "badgr",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning",
+          "description": ", Weerakoon et al., ICRA 2022 | arXiv | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428382446,
+            "language": "Python",
+            "last_commit": "2022-07-22T19:18:00Z",
+            "owner": "kasunweerkoon",
+            "repo": "terp",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "Reinforcement Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Navigation Planning for Legged Robots in Challenging Terrain",
+          "description": ", Wermelinger et al., IROS 2016 | bibtex | Github",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31601847,
+            "language": "C++",
+            "last_commit": "2024-06-09T13:24:55Z",
+            "owner": "leggedrobotics",
+            "repo": "traversability_estimation",
+            "stars": 512
+          }
+        }
+      ],
+      "title": "Traditional Planning & Control"
     },
     {
       "description": null,
@@ -388,13 +460,35 @@
           "description": "See more datasets at:",
           "node_type": "group",
           "title": "Urban (Structured / Semi-structured) terrains"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BotanicGarden",
+              "description": "Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 597679786,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-09-14T07:32:25Z",
+                "owner": "robot-pesg",
+                "repo": "BotanicGarden",
+                "stars": 304
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Off-road (Unstructured) terrains"
         }
       ],
       "title": "Public Datasets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:25:10.977Z",
+    "last_updated": "2026-08-24T14:36:36.547Z",
     "original_repository": "Ikhyeon-Cho/awesome-traversability-analysis",
     "original_repository_id": 785086542,
     "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",

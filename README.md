@@ -122,11 +122,11 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,362 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,363 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 
-* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,853 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
+* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,854 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
-* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,665 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
+* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,666 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
 </details>
 
@@ -154,11 +154,11 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Uncertainty & risk estimation</summary>
 
+* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 156 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
+
 * [Active Traversability Learning via Risk-Aware Information Gathering for Planetary Exploration Rovers](https://ieeexplore.ieee.org/abstract/document/9894664/), Endo et al., RA-L 2022 | [bibtex](./terrain_traversability_analysis.bib#L166-L175)
 
 * [EVORA: Deep Evidential Traversability Learning for Risk-Aware Off-Road Autonomy](), Cai et al., arXiv 2023 | [arXiv](https://arxiv.org/abs/2311.06234) | [bibtex](./terrain_traversability_analysis.bib#L177-L182)
-
-* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 156 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
 
 * [STEP: Stochastic Traversability Evaluation and Planning for Risk-Aware Off-road Navigation](https://www.roboticsproceedings.org/rss17/p021.html), Fan et al., RSS 2021 | [arXiv](https://arxiv.org/abs/2103.02828) | [bibtex](./terrain_traversability_analysis.bib#L195-L203)
 
@@ -166,6 +166,8 @@ Keep updating... Any PRs are welcome! 😃
 
 <details open>
 <summary>Learning from demonstration</summary>
+
+* [Learning Ground Traversability From Simulations](https://ieeexplore.ieee.org/abstract/document/8280544/), Chavez et al., RA-L 2018 | [arXiv](https://arxiv.org/abs/1709.05368) | [bibtex](./terrain_traversability_analysis.bib#L249-L258) | [Github](https://github.com/romarcg/traversability_estimation) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2023-03-11
 
 * [Locomotion Policy Guided Traversability Learning using Volumetric Representations of Complex Environments](https://ieeexplore.ieee.org/abstract/document/9982190/), Frey et al., IROS 2022 | [arXiv](https://arxiv.org/abs/2203.15854) | [bibtex](./terrain_traversability_analysis.bib#L205-L212)
 
@@ -176,8 +178,6 @@ Keep updating... Any PRs are welcome! 😃
 * [ForestTrav: 3D LiDAR-Only Forest Traversability Estimation for Autonomous Ground Vehicles](https://ieeexplore.ieee.org/abstract/document/10458917/), Ruetz et al., IEEE Access 2024 | [arXiv](https://arxiv.org/abs/2305.12705) | [bibtex](./terrain_traversability_analysis.bib#L232-L238)
 
 * [Forest Traversability Mapping (FTM): Traversability estimation using 3D voxel-based Normal Distributed Transform to enable forest navigation](https://ieeexplore.ieee.org/abstract/document/9981401/), Ruetz et al., IROS 2022 | [bibtex](./terrain_traversability_analysis.bib#L240-L247)
-
-* [Learning Ground Traversability From Simulations](https://ieeexplore.ieee.org/abstract/document/8280544/), Chavez et al., RA-L 2018 | [arXiv](https://arxiv.org/abs/1709.05368) | [bibtex](./terrain_traversability_analysis.bib#L249-L258) | [Github](https://github.com/romarcg/traversability_estimation) ⭐ 36 | 🐛 1 | 🌐 Python | 📅 2023-03-11
 
 * [Traversability Analysis for Mobile Robots in Outdoor Environments: A Semi-Supervised Learning Approach Based on 3D-Lidar Data](https://ieeexplore.ieee.org/abstract/document/7139749/), Suger et al., ICRA 2015 | [bibtex](./terrain_traversability_analysis.bib#L260-L267)
 
@@ -261,6 +261,8 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Traditional Planning & Control </summary>
 
+* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 512 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
+
 * [Exploration of 3D terrains using potential fields with elevation-based local distortions](https://ieeexplore.ieee.org/abstract/document/9197577), Maffei et al., ICRA 2020 | [bibtex](./terrain_traversability_analysis.bib#L490-L497)
 
 * [Long-Term Robot Navigation in Indoor Environments Estimating Patterns in Traversability Changes](https://ieeexplore.ieee.org/abstract/document/9197078/), Nardi et al., ICRA 2020 | [arXiv](https://arxiv.org/abs/1909.12733) | [bibtex](./terrain_traversability_analysis.bib#L499-L506)
@@ -268,8 +270,6 @@ Keep updating... Any PRs are welcome! 😃
 * [Perceptive Locomotion in Rough Terrain – Online Foothold Optimization](https://ieeexplore.ieee.org/abstract/document/9134750), Jenelten et al., RA-L 2020 | [bibtex](./terrain_traversability_analysis.bib#L508-L517)
 
 * [Driving on Point Clouds: Motion Planning, Trajectory Optimization, and Terrain Assessment in Generic Nonplanar Environments](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21700), Krusi et al., Journal of Field Robotics 2017 | [bibtex](./terrain_traversability_analysis.bib#L519-L528)
-
-* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 512 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
 
 * [Fuzzy Based Traversability Analysis for a Mobile Robot on Rough Terrain](https://ieeexplore.ieee.org/abstract/document/7139753), Tanaka et al., ICRA 2015 | [bibtex](./terrain_traversability_analysis.bib#L541-L550)
 
@@ -295,9 +295,9 @@ See more datasets at:
 
 ### Off-road (Unstructured) terrains
 
+* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 304 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [RELLIS-3D](https://www.unmannedlab.org/research/RELLIS-3D) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 * [RUGD](http://rugd.vision/) : Video dataset annotated with pixel-wise labels
-* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 304 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [GOOSE](https://goose-dataset.de/) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 
 ***
