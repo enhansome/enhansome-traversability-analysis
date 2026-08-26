@@ -32,7 +32,7 @@
                 "last_commit": "2026-05-27T11:31:35Z",
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 305
+                "stars": 306
               }
             },
             {
@@ -148,7 +148,7 @@
             "last_commit": "2024-07-01T05:21:48Z",
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1667
+            "stars": 1666
           }
         }
       ],
@@ -169,7 +169,7 @@
             "last_commit": "2023-06-27T00:23:54Z",
             "owner": "autonomousvision",
             "repo": "occupancy_networks",
-            "stars": 1664
+            "stars": 1663
           }
         },
         {
@@ -475,7 +475,7 @@
                 "last_commit": "2025-09-14T07:32:25Z",
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 304
+                "stars": 305
               }
             }
           ],
@@ -488,7 +488,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:27:03.219Z",
+    "last_updated": "2026-08-26T05:17:25.532Z",
     "original_repository": "Ikhyeon-Cho/awesome-traversability-analysis",
     "original_repository_id": 785086542,
     "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",
