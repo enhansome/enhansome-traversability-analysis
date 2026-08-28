@@ -18,7 +18,8 @@
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
                 "stars": 312
-              }
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             },
             {
               "node_type": "item",
@@ -32,8 +33,9 @@
                 "last_commit": "2026-05-27T11:31:35Z",
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 307
-              }
+                "stars": 308
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "abeleinin",
                 "repo": "gp-navigation",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "Ikhyeon-Cho",
                 "repo": "LeSTA",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             },
             {
               "node_type": "item",
@@ -77,8 +81,9 @@
                 "last_commit": "2024-06-20T12:00:51Z",
                 "owner": "matval",
                 "repo": "wayfaster",
-                "stars": 82
-              }
+                "stars": 83
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "yurimjeon1892",
                 "repo": "FtFoot",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             }
           ],
           "description": null,
@@ -119,7 +125,8 @@
             "owner": "OctoMap",
             "repo": "octomap",
             "stars": 2364
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -134,7 +141,8 @@
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
             "stars": 1857
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "ethz-asl",
             "repo": "voxblox",
             "stars": 1666
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Dense Terrain Modeling"
@@ -169,8 +178,9 @@
             "last_commit": "2023-06-27T00:23:54Z",
             "owner": "autonomousvision",
             "repo": "occupancy_networks",
-            "stars": 1663
-          }
+            "stars": 1664
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -185,7 +195,8 @@
             "owner": "facebookresearch",
             "repo": "DeepSDF",
             "stars": 1563
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "ztsrxh",
             "repo": "RoadBEV",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -215,7 +227,8 @@
             "owner": "RobustFieldAutonomyLab",
             "repo": "la3dm",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -230,7 +243,8 @@
             "owner": "mstoelzle",
             "repo": "solving-occlusion",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -245,7 +259,8 @@
             "owner": "TixiaoShan",
             "repo": "BGK_traversability_mapping",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Terrain Representation Learning"
@@ -266,7 +281,8 @@
             "owner": "roahmlab",
             "repo": "sel_map",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Uncertainty & risk estimation"
@@ -287,7 +303,8 @@
             "owner": "romarcg",
             "repo": "traversability_estimation",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Learning from demonstration"
@@ -308,7 +325,8 @@
             "owner": "rayguan97",
             "repo": "GANav-offroad",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -323,7 +341,8 @@
             "owner": "AdarshJS",
             "repo": "terrapn",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Image segmentation"
@@ -344,7 +363,8 @@
             "owner": "leggedrobotics",
             "repo": "anomaly_navigation",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -359,7 +379,8 @@
             "owner": "NHirose",
             "repo": "GONET",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Learning from demonstration"
@@ -380,7 +401,8 @@
             "owner": "gkahn13",
             "repo": "badgr",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         },
         {
           "node_type": "item",
@@ -394,8 +416,9 @@
             "last_commit": "2022-07-22T19:18:00Z",
             "owner": "kasunweerkoon",
             "repo": "terp",
-            "stars": 39
-          }
+            "stars": 40
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Reinforcement Learning"
@@ -416,7 +439,8 @@
             "owner": "leggedrobotics",
             "repo": "traversability_estimation",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-28T16:56:59.628Z"
         }
       ],
       "title": "Traditional Planning & Control"
@@ -439,7 +463,8 @@
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
                 "stars": 1944
-              }
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             },
             {
               "node_type": "item",
@@ -454,7 +479,8 @@
                 "owner": "lhyfst",
                 "repo": "awesome-autonomous-driving-datasets",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             }
           ],
           "description": "See more datasets at:",
@@ -475,8 +501,9 @@
                 "last_commit": "2025-09-14T07:32:25Z",
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 305
-              }
+                "stars": 304
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
             }
           ],
           "description": null,
@@ -488,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:32:41.794Z",
+    "last_updated": "2026-08-28T16:56:59.628Z",
     "original_repository_info": {
       "archived": false,
       "id": 785086542,

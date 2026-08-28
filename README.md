@@ -55,13 +55,13 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 312 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
 
-* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 307 | 🐛 9 | 🌐 Python | 📅 2026-05-27
+* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 308 | 🐛 9 | 🌐 Python | 📅 2026-05-27
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 183 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
 * [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 115 | 🐛 4 | 🌐 C++ | 📅 2026-05-04
 
-* [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2024-06-20
+* [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 83 | 🐛 3 | 🌐 Python | 📅 2024-06-20
 
 * [Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues](), Jeon et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.15363)  | [bibtex](./traversability-papers-2023-2024.bib#L60-L65) | [Github](https://github.com/yurimjeon1892/FtFoot) ⭐ 54 | 🐛 2 | 🌐 Python | 📅 2026-02-07
 
@@ -133,7 +133,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Terrain Representation Learning </summary>
 
-* [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html), Mescheder et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1812.03828) | [bibtex](./terrain_traversability_analysis.bib#L90-L96) | [Github](https://github.com/autonomousvision/occupancy_networks) ⭐ 1,663 | 🐛 82 | 🌐 Python | 📅 2023-06-27
+* [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html), Mescheder et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1812.03828) | [bibtex](./terrain_traversability_analysis.bib#L90-L96) | [Github](https://github.com/autonomousvision/occupancy_networks) ⭐ 1,664 | 🐛 82 | 🌐 Python | 📅 2023-06-27
 
 * [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html), Part et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1901.05103) | [bibtex](./terrain_traversability_analysis.bib#L109-L115) | [Github](https://github.com/facebookresearch/DeepSDF) ⚠️ Archived
 
@@ -252,7 +252,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://ieeexplore.ieee.org/abstract/document/9345970/), Kahn et al., RA-L 2021 | [arXiv](https://arxiv.org/abs/2002.05700) | [bibtex](./terrain_traversability_analysis.bib#L459-468) | [Github](https://github.com/gkahn13/badgr) ⭐ 159 | 🐛 12 | 🌐 Python | 📅 2022-11-22
 
-* [TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9812238/), Weerakoon et al., ICRA 2022 | [arXiv](https://arxiv.org/abs/2109.05120) | [bibtex](./terrain_traversability_analysis.bib#L481-488) | [Github](https://github.com/kasunweerkoon/terp) ⭐ 39 | 🐛 4 | 🌐 Python | 📅 2022-07-22
+* [TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9812238/), Weerakoon et al., ICRA 2022 | [arXiv](https://arxiv.org/abs/2109.05120) | [bibtex](./terrain_traversability_analysis.bib#L481-488) | [Github](https://github.com/kasunweerkoon/terp) ⭐ 40 | 🐛 4 | 🌐 Python | 📅 2022-07-22
 
 * [A Sim-to-Real Pipeline for Deep Reinforcement Learning for Autonomous Robot Navigation in Cluttered Rough Terrain](https://ieeexplore.ieee.org/abstract/document/9468918/), Hu et al., RA-L 2021 | [bibtex](./terrain_traversability_analysis.bib#L470-L479)
 
@@ -295,11 +295,11 @@ See more datasets at:
 
 ### Off-road (Unstructured) terrains
 
-* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 305 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
+* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 304 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [RELLIS-3D](https://www.unmannedlab.org/research/RELLIS-3D) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 * [RUGD](http://rugd.vision/) : Video dataset annotated with pixel-wise labels
 * [GOOSE](https://goose-dataset.de/) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
