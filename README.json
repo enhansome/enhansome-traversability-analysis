@@ -223,7 +223,7 @@
             "open_issues": 101,
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1857,
+            "stars": 1858,
             "topics": [
               "mapping",
               "robotics",
@@ -301,7 +301,7 @@
             "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "DeepSDF",
-            "stars": 1563,
+            "stars": 1562,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:54:50.564Z",
+    "last_updated": "2026-08-29T11:22:08.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
