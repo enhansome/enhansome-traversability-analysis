@@ -12,12 +12,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A GPU implementation of Model Predictive Path Integral (MPPI) control that uses a probabilistic traversability model for planning risk-aware trajectories.",
+                "homepage": null,
                 "id": 542694718,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-23T22:18:27Z",
+                "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "gpu",
+                  "motion-planning",
+                  "mppi",
+                  "numba",
+                  "python",
+                  "robotics",
+                  "sampling-based-planning",
+                  "traversability"
+                ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             },
@@ -28,12 +42,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision",
+                "homepage": "https://sites.google.com/leggedrobotics.com/wild-visual-navigation",
                 "id": 499416007,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-05-27T11:31:35Z",
+                "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 308
+                "stars": 308,
+                "topics": [
+                  "computer-vision",
+                  "field-robotics",
+                  "legged-robots",
+                  "machine-learning",
+                  "navigation",
+                  "online-learning",
+                  "robot-navigation",
+                  "robotics",
+                  "self-supervised-learning",
+                  "traversability",
+                  "traversability-estimation"
+                ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             },
@@ -44,12 +75,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gaussian Process-based Traversability Analysis for Terrain Mapless Navigation (ICRA 2024)",
+                "homepage": null,
                 "id": 767775977,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-10-25T03:32:57Z",
+                "open_issues": 5,
                 "owner": "abeleinin",
                 "repo": "gp-navigation",
-                "stars": 183
+                "stars": 183,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             },
@@ -60,12 +96,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[RA-L '24] Learning self-supervised traversability with navigation experiences of mobile robots: A risk-aware self-training approach",
+                "homepage": "https://ieeexplore.ieee.org/document/10468651",
                 "id": 725536297,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-05-04T04:14:25Z",
+                "open_issues": 4,
                 "owner": "Ikhyeon-Cho",
                 "repo": "LeSTA",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "elevation-mapping",
+                  "mobile-robotics",
+                  "mobile-robots",
+                  "point-cloud",
+                  "robot-navigation",
+                  "ros",
+                  "ros2",
+                  "self-supervised-learning",
+                  "terrain-navigation",
+                  "traversability",
+                  "traversability-estimation",
+                  "traversability-mapping"
+                ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             },
@@ -76,12 +130,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WayFASTER: a Self-Supervised Traversability Prediction for Increased Navigation Awareness",
+                "homepage": "https://arxiv.org/abs/2402.00683",
                 "id": 692215521,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-20T12:00:51Z",
+                "open_issues": 3,
                 "owner": "matval",
                 "repo": "wayfaster",
-                "stars": 83
+                "stars": 83,
+                "topics": [
+                  "off-road-navigation",
+                  "python",
+                  "pytorch",
+                  "robotics",
+                  "traversability"
+                ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             },
@@ -92,12 +157,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues",
+                "homepage": null,
                 "id": 750133727,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-07T08:25:25Z",
+                "open_issues": 2,
                 "owner": "yurimjeon1892",
                 "repo": "FtFoot",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "off-road-navigation",
+                  "self-supervised-navigation",
+                  "traversability"
+                ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             }
@@ -119,12 +193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Efficient Probabilistic 3D Mapping Framework Based on Octrees. Contains the main OctoMap library, the viewer octovis, and dynamicEDT3D.",
+            "homepage": "http://octomap.github.io/octomap/",
             "id": 7222017,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-02T17:47:50Z",
+            "open_issues": 44,
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2364
+            "stars": 2364,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -135,12 +214,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Robot-centric elevation mapping for rough terrain navigation",
+            "homepage": null,
             "id": 19574322,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-11-04T10:55:13Z",
+            "open_issues": 101,
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1857
+            "stars": 1857,
+            "topics": [
+              "mapping",
+              "robotics",
+              "ros",
+              "terrain-mapping"
+            ]
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -151,12 +240,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for flexible voxel-based mapping, mainly focusing on truncated and Euclidean signed distance fields.",
+            "homepage": null,
             "id": 56137228,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-07-01T05:21:48Z",
+            "open_issues": 77,
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "mapping",
+              "robotics",
+              "voxblox"
+            ]
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -173,12 +271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for the paper \"Occupancy Networks - Learning 3D Reconstruction in Function Space\"",
+            "homepage": "https://avg.is.tuebingen.mpg.de/publications/occupancy-networks",
             "id": 178851471,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-27T00:23:54Z",
+            "open_issues": 82,
             "owner": "autonomousvision",
             "repo": "occupancy_networks",
-            "stars": 1664
+            "stars": 1664,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -189,12 +292,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Learning Continuous Signed Distance Functions for Shape Representation",
+            "homepage": null,
             "id": 173859173,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-20T09:07:22Z",
+            "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "DeepSDF",
-            "stars": 1563
+            "stars": 1563,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -205,12 +313,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for RoadBEV: road surface reconstruction in Bird's Eye View",
+            "homepage": null,
             "id": 782816649,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-27T06:17:40Z",
+            "open_issues": 9,
             "owner": "ztsrxh",
             "repo": "RoadBEV",
-            "stars": 222
+            "stars": 222,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -221,12 +334,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning-aided 3D mapping",
+            "homepage": null,
             "id": 79852322,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-11-24T02:07:35Z",
+            "open_issues": 2,
             "owner": "RobustFieldAutonomyLab",
             "repo": "la3dm",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "catkin",
+              "dataset",
+              "gaussian-process-occupancy-maps",
+              "gaussian-process-regression",
+              "gaussian-processes",
+              "mapping",
+              "occupancy-mapping",
+              "occupancy-prediction",
+              "octomap"
+            ]
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -237,12 +365,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ETH Zürich Master thesis on Solving Occlusion in Terrain Mapping with Neural Networks",
+            "homepage": "https://rsl.ethz.ch",
             "id": 290744555,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-01T19:58:10Z",
+            "open_issues": 6,
             "owner": "mstoelzle",
             "repo": "solving-occlusion",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "deep-learning",
+              "inpainting",
+              "pytorch",
+              "robotics",
+              "terrain-mapping"
+            ]
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -253,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 183278094,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-04-28T22:35:59Z",
+            "open_issues": 3,
             "owner": "TixiaoShan",
             "repo": "BGK_traversability_mapping",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -275,12 +419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Semantic ELevation (SEL) map is a semantic Bayesian inferencing framework for real-time elevation mapping and terrain property estimation from RGB-D images.",
+            "homepage": "https://roahmlab.github.io/sel_map/",
             "id": 462435721,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-08-05T02:30:56Z",
+            "open_issues": 8,
             "owner": "roahmlab",
             "repo": "sel_map",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -297,12 +446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Complementary material for the submission RAL-ICRA 2017",
+            "homepage": null,
             "id": 95764720,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-11T12:54:39Z",
+            "open_issues": 1,
             "owner": "romarcg",
             "repo": "traversability_estimation",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -319,12 +473,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code base for GANav: Group-wise Attention Network for Classifying Navigable Regions in Unstructured Outdoor Environments.",
+            "homepage": null,
             "id": 360252125,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-21T18:44:30Z",
+            "open_issues": 0,
             "owner": "rayguan97",
             "repo": "GANav-offroad",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "deep-learning",
+              "navigation",
+              "off-road",
+              "semantic-segmentation",
+              "terrain-analysis"
+            ]
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -335,12 +500,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 433961183,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-04T19:43:45Z",
+            "open_issues": 0,
             "owner": "AdarshJS",
             "repo": "terrapn",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -357,12 +527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly Navigation - ANNA",
+            "homepage": null,
             "id": 233902850,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-01-14T19:03:41Z",
+            "open_issues": 0,
             "owner": "leggedrobotics",
             "repo": "anomaly_navigation",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -373,12 +548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 152495972,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-26T00:52:57Z",
+            "open_issues": 1,
             "owner": "NHirose",
             "repo": "GONET",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -395,12 +575,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 239952250,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-22T04:20:19Z",
+            "open_issues": 12,
             "owner": "gkahn13",
             "repo": "badgr",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         },
@@ -411,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning (ICRA 2022)",
+            "homepage": "https://gamma.umd.edu/researchdirections/crowdmultiagent/terp",
             "id": 428382446,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-22T19:18:00Z",
+            "open_issues": 4,
             "owner": "kasunweerkoon",
             "repo": "terp",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -433,12 +623,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Traversability mapping for mobile rough terrain navigation",
+            "homepage": null,
             "id": 31601847,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-09T13:24:55Z",
+            "open_issues": 11,
             "owner": "leggedrobotics",
             "repo": "traversability_estimation",
-            "stars": 512
+            "stars": 512,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
         }
@@ -457,12 +652,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome datasets for SLAM",
+                "homepage": null,
                 "id": 133256832,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-12-13T04:29:23Z",
+                "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1944
+                "stars": 1944,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             },
@@ -473,12 +673,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an awesome list of autonomous driving datasets",
+                "homepage": null,
                 "id": 200682737,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-10-08T04:35:59Z",
+                "open_issues": 0,
                 "owner": "lhyfst",
                 "repo": "awesome-autonomous-driving-datasets",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "autopilot",
+                  "awesome",
+                  "datasets",
+                  "kitti",
+                  "lider"
+                ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             }
@@ -496,12 +707,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BotanicGarden: A high-quality dataset for robot navigation in unstructured natural environments",
+                "homepage": null,
                 "id": 597679786,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-09-14T07:32:25Z",
+                "open_issues": 13,
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 304
+                "stars": 304,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
             }
@@ -515,15 +731,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:56:59.628Z",
+    "last_updated": "2026-08-29T04:54:50.564Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
+      "homepage": null,
       "id": 785086542,
       "language": "TeX",
+      "license": "MIT",
       "last_commit": "2024-07-09T01:45:06Z",
+      "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 161
+      "stars": 161,
+      "topics": [
+        "awesome-list",
+        "robotic-perception",
+        "terrain-classification",
+        "traversability-estimation"
+      ]
     },
     "original_repository_sha": "4cd817eab9d9567da8461311933a720491023f4a",
     "enhanced_repository": "enhansome/enhansome-traversability-analysis",
