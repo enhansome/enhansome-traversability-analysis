@@ -51,7 +51,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 310,
+                "stars": 311,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -101,7 +101,7 @@
                 "id": 725536297,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-05-04T04:14:25Z",
+                "last_commit": "2026-09-04T03:53:50Z",
                 "open_issues": 4,
                 "owner": "Ikhyeon-Cho",
                 "repo": "LeSTA",
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T09:13:27.366Z",
+    "last_updated": "2026-09-04T09:04:53.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
@@ -743,7 +743,7 @@
       "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 162,
+      "stars": 163,
       "topics": [
         "awesome-list",
         "robotic-perception",
