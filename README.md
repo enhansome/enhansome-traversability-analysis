@@ -122,7 +122,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,366 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,367 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,862 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
@@ -192,7 +192,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Image segmentation </summary>
 
-* [GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments](https://ieeexplore.ieee.org/abstract/document/9810192/), Guan et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2103.04233) | [bibtex](./terrain_traversability_analysis.bib#L280-L289) | [Github](https://github.com/rayguan97/GANav-offroad) ⭐ 153 | 🐛 0 | 🌐 Python | 📅 2025-01-21
+* [GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments](https://ieeexplore.ieee.org/abstract/document/9810192/), Guan et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2103.04233) | [bibtex](./terrain_traversability_analysis.bib#L280-L289) | [Github](https://github.com/rayguan97/GANav-offroad) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2025-01-21
 
 * [TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9981942/), Sathyamoorthy et al., IROS 2022 | [arXiv](https://arxiv.org/abs/2202.12873) | [bibtex](./terrain_traversability_analysis.bib#L291-L298) | [Github](https://github.com/AdarshJS/terrapn) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-08-04
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
