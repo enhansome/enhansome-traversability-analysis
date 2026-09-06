@@ -51,7 +51,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 311,
+                "stars": 312,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -84,7 +84,7 @@
                 "open_issues": 5,
                 "owner": "abeleinin",
                 "repo": "gp-navigation",
-                "stars": 184,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:38:15.529Z",
+    "last_updated": "2026-09-06T08:57:34.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",

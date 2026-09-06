@@ -55,9 +55,9 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 312 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
 
-* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 311 | 🐛 9 | 🌐 Python | 📅 2026-05-27
+* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 312 | 🐛 9 | 🌐 Python | 📅 2026-05-27
 
-* [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 184 | 🐛 5 | 🌐 Python | 📅 2024-10-25
+* [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 185 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
 * [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 115 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
