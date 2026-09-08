@@ -122,7 +122,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,367 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,368 | 🐛 44 | 🌐 C++ | 📅 2026-08-02
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,862 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
@@ -139,7 +139,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](), Zhao et al., arXiv 2024 | [arXiv](https://arxiv.org/abs/2404.06605) | [bibtex](./terrain_traversability_analysis.bib#L159-L164) | [Github](https://github.com/ztsrxh/RoadBEV) ⭐ 222 | 🐛 7 | 🌐 Python | 📅 2024-11-27
 
-* [Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference](https://ieeexplore.ieee.org/abstract/document/8713569), Doherty et al., T-RO 2019 | [bibtex](./terrain_traversability_analysis.bib#L98-L107) | [Github](https://github.com/RobustFieldAutonomyLab/la3dm) ⭐ 136 | 🐛 2 | 🌐 C++ | 📅 2023-11-24
+* [Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference](https://ieeexplore.ieee.org/abstract/document/8713569), Doherty et al., T-RO 2019 | [bibtex](./terrain_traversability_analysis.bib#L98-L107) | [Github](https://github.com/RobustFieldAutonomyLab/la3dm) ⭐ 135 | 🐛 2 | 🌐 C++ | 📅 2023-11-24
 
 * [Reconstructing Occluded Elevation Information in Terrain Maps With Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9676411/), Stolzle et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2109.07150) | [bibtex](./terrain_traversability_analysis.bib#L139-L148) | [Github](https://github.com/mstoelzle/solving-occlusion) ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2023-03-01
 
@@ -295,11 +295,11 @@ See more datasets at:
 
 ### Off-road (Unstructured) terrains
 
-* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 304 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
+* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 305 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [RELLIS-3D](https://www.unmannedlab.org/research/RELLIS-3D) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 * [RUGD](http://rugd.vision/) : Video dataset annotated with pixel-wise labels
 * [GOOSE](https://goose-dataset.de/) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
