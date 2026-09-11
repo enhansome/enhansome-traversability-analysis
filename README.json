@@ -202,7 +202,7 @@
             "open_issues": 44,
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2370,
+            "stars": 2372,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -223,7 +223,7 @@
             "open_issues": 101,
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1863,
+            "stars": 1866,
             "topics": [
               "mapping",
               "robotics",
@@ -249,7 +249,7 @@
             "open_issues": 77,
             "owner": "ethz-asl",
             "repo": "voxblox",
-            "stars": 1668,
+            "stars": 1669,
             "topics": [
               "mapping",
               "robotics",
@@ -584,7 +584,7 @@
             "open_issues": 12,
             "owner": "gkahn13",
             "repo": "badgr",
-            "stars": 159,
+            "stars": 160,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -661,7 +661,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -731,7 +731,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:12:48.767Z",
+    "last_updated": "2026-09-11T09:10:02.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
