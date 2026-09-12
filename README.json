@@ -96,7 +96,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[RA-L '24] Learning self-supervised traversability with navigation experiences of mobile robots: A risk-aware self-training approach",
+                "description": "Learning robot-specific traversability from a short manual drive — No manual labels needed. [RA-L '24]",
                 "homepage": "https://ieeexplore.ieee.org/document/10468651",
                 "id": 725536297,
                 "language": "C++",
@@ -105,12 +105,14 @@
                 "open_issues": 4,
                 "owner": "Ikhyeon-Cho",
                 "repo": "LeSTA",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "elevation-mapping",
                   "mobile-robotics",
                   "mobile-robots",
                   "point-cloud",
+                  "risk-aware",
+                  "risk-aware-navigation",
                   "robot-navigation",
                   "ros",
                   "ros2",
@@ -139,7 +141,7 @@
                 "open_issues": 3,
                 "owner": "matval",
                 "repo": "wayfaster",
-                "stars": 83,
+                "stars": 84,
                 "topics": [
                   "off-road-navigation",
                   "python",
@@ -202,7 +204,7 @@
             "open_issues": 44,
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2372,
+            "stars": 2373,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -731,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:10:02.803Z",
+    "last_updated": "2026-09-12T08:52:08.894Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
