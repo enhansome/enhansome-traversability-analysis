@@ -53,9 +53,9 @@ Keep updating... Any PRs are welcome! 😃
 
 ### 2023 - 2024 Papers
 
-* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 314 | 🐛 9 | 🌐 Python | 📅 2026-05-27
+* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 315 | 🐛 9 | 🌐 Python | 📅 2026-05-27
 
-* [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 313 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
+* [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 314 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 185 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
@@ -122,7 +122,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,375 | 🐛 44 | 🌐 C++ | 📅 2026-09-15
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,377 | 🐛 44 | 🌐 C++ | 📅 2026-09-16
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,870 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
@@ -154,7 +154,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Uncertainty & risk estimation</summary>
 
-* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 157 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
+* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 158 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
 
 * [Active Traversability Learning via Risk-Aware Information Gathering for Planetary Exploration Rovers](https://ieeexplore.ieee.org/abstract/document/9894664/), Endo et al., RA-L 2022 | [bibtex](./terrain_traversability_analysis.bib#L166-L175)
 
@@ -192,7 +192,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Image segmentation </summary>
 
-* [GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments](https://ieeexplore.ieee.org/abstract/document/9810192/), Guan et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2103.04233) | [bibtex](./terrain_traversability_analysis.bib#L280-L289) | [Github](https://github.com/rayguan97/GANav-offroad) ⭐ 154 | 🐛 0 | 🌐 Python | 📅 2025-01-21
+* [GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments](https://ieeexplore.ieee.org/abstract/document/9810192/), Guan et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2103.04233) | [bibtex](./terrain_traversability_analysis.bib#L280-L289) | [Github](https://github.com/rayguan97/GANav-offroad) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2025-01-21
 
 * [TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9981942/), Sathyamoorthy et al., IROS 2022 | [arXiv](https://arxiv.org/abs/2202.12873) | [bibtex](./terrain_traversability_analysis.bib#L291-L298) | [Github](https://github.com/AdarshJS/terrapn) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-08-04
 
@@ -290,7 +290,7 @@ Keep updating... Any PRs are welcome! 😃
 
 See more datasets at:
 
-* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,945 | 🐛 14 | 📅 2024-12-13
+* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,946 | 🐛 14 | 📅 2024-12-13
 * [awesome-autonomous-driving-dataasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) ⭐ 52 | 🐛 0 | 📅 2019-10-08
 
 ### Off-road (Unstructured) terrains
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

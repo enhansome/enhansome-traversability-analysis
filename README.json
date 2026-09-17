@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 314,
+                "stars": 315,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 313,
+                "stars": 314,
                 "topics": [
                   "gpu",
                   "motion-planning",
@@ -200,11 +200,11 @@
             "id": 7222017,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-15T20:12:50Z",
+            "last_commit": "2026-09-16T18:22:33Z",
             "open_issues": 44,
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2375,
+            "stars": 2377,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -430,7 +430,7 @@
             "open_issues": 8,
             "owner": "roahmlab",
             "repo": "sel_map",
-            "stars": 157,
+            "stars": 158,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -484,7 +484,7 @@
             "open_issues": 0,
             "owner": "rayguan97",
             "repo": "GANav-offroad",
-            "stars": 154,
+            "stars": 155,
             "topics": [
               "deep-learning",
               "navigation",
@@ -663,7 +663,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1945,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T09:32:28.583Z",
+    "last_updated": "2026-09-17T09:40:18.501Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
@@ -745,7 +745,7 @@
       "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 163,
+      "stars": 165,
       "topics": [
         "awesome-list",
         "robotic-perception",
