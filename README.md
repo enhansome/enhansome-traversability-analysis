@@ -53,9 +53,9 @@ Keep updating... Any PRs are welcome! 😃
 
 ### 2023 - 2024 Papers
 
-* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 315 | 🐛 9 | 🌐 Python | 📅 2026-05-27
+* [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 315 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
 
-* [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 314 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
+* [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 315 | 🐛 9 | 🌐 Python | 📅 2026-05-27
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 185 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
@@ -250,7 +250,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Reinforcement Learning </summary>
 
-* [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://ieeexplore.ieee.org/abstract/document/9345970/), Kahn et al., RA-L 2021 | [arXiv](https://arxiv.org/abs/2002.05700) | [bibtex](./terrain_traversability_analysis.bib#L459-468) | [Github](https://github.com/gkahn13/badgr) ⭐ 161 | 🐛 12 | 🌐 Python | 📅 2022-11-22
+* [BADGR: An Autonomous Self-Supervised Learning-Based Navigation System](https://ieeexplore.ieee.org/abstract/document/9345970/), Kahn et al., RA-L 2021 | [arXiv](https://arxiv.org/abs/2002.05700) | [bibtex](./terrain_traversability_analysis.bib#L459-468) | [Github](https://github.com/gkahn13/badgr) ⭐ 162 | 🐛 12 | 🌐 Python | 📅 2022-11-22
 
 * [TERP: Reliable Planning in Uneven Outdoor Environments using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9812238/), Weerakoon et al., ICRA 2022 | [arXiv](https://arxiv.org/abs/2109.05120) | [bibtex](./terrain_traversability_analysis.bib#L481-488) | [Github](https://github.com/kasunweerkoon/terp) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2022-07-22
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
