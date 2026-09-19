@@ -59,7 +59,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 185 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
-* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 116 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
+* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 117 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
 
 * [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2024-06-20
 
@@ -122,7 +122,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,377 | 🐛 44 | 🌐 C++ | 📅 2026-09-16
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,378 | 🐛 44 | 🌐 C++ | 📅 2026-09-18
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,870 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
@@ -290,16 +290,16 @@ Keep updating... Any PRs are welcome! 😃
 
 See more datasets at:
 
-* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,946 | 🐛 14 | 📅 2024-12-13
+* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,945 | 🐛 14 | 📅 2024-12-13
 * [awesome-autonomous-driving-dataasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) ⭐ 52 | 🐛 0 | 📅 2019-10-08
 
 ### Off-road (Unstructured) terrains
 
-* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 306 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
+* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 307 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [RELLIS-3D](https://www.unmannedlab.org/research/RELLIS-3D) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 * [RUGD](http://rugd.vision/) : Video dataset annotated with pixel-wise labels
 * [GOOSE](https://goose-dataset.de/) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
