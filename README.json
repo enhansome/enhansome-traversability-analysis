@@ -7,6 +7,39 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Fast Traversability Estimation for Wild Visual Navigation",
+              "description": ", Frey et al., RSS 2023 | arXiv | bibtex | Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision",
+                "homepage": "https://sites.google.com/leggedrobotics.com/wild-visual-navigation",
+                "id": 499416007,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-05-27T11:31:35Z",
+                "open_issues": 9,
+                "owner": "leggedrobotics",
+                "repo": "wild_visual_navigation",
+                "stars": 316,
+                "topics": [
+                  "computer-vision",
+                  "field-robotics",
+                  "legged-robots",
+                  "machine-learning",
+                  "navigation",
+                  "online-learning",
+                  "robot-navigation",
+                  "robotics",
+                  "self-supervised-learning",
+                  "traversability",
+                  "traversability-estimation"
+                ]
+              },
+              "first_seen": "2026-08-28T16:56:59.628Z"
+            },
+            {
+              "node_type": "item",
               "title": "Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments",
               "description": ", Cai et al., IROS 2023 | arXiv | bibtex | Github",
               "children": [],
@@ -31,39 +64,6 @@
                   "robotics",
                   "sampling-based-planning",
                   "traversability"
-                ]
-              },
-              "first_seen": "2026-08-28T16:56:59.628Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Fast Traversability Estimation for Wild Visual Navigation",
-              "description": ", Frey et al., RSS 2023 | arXiv | bibtex | Github",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Wild Visual Navigation: A system for fast traversability learning via pre-trained models and online self-supervision",
-                "homepage": "https://sites.google.com/leggedrobotics.com/wild-visual-navigation",
-                "id": 499416007,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-05-27T11:31:35Z",
-                "open_issues": 9,
-                "owner": "leggedrobotics",
-                "repo": "wild_visual_navigation",
-                "stars": 315,
-                "topics": [
-                  "computer-vision",
-                  "field-robotics",
-                  "legged-robots",
-                  "machine-learning",
-                  "navigation",
-                  "online-learning",
-                  "robot-navigation",
-                  "robotics",
-                  "self-supervised-learning",
-                  "traversability",
-                  "traversability-estimation"
                 ]
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -282,7 +282,7 @@
             "open_issues": 82,
             "owner": "autonomousvision",
             "repo": "occupancy_networks",
-            "stars": 1664,
+            "stars": 1665,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -324,7 +324,7 @@
             "open_issues": 7,
             "owner": "ztsrxh",
             "repo": "RoadBEV",
-            "stars": 223,
+            "stars": 224,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T09:00:03.342Z",
+    "last_updated": "2026-09-20T09:28:31.485Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
@@ -745,7 +745,7 @@
       "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 165,
+      "stars": 166,
       "topics": [
         "awesome-list",
         "robotic-perception",
