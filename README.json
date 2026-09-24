@@ -105,7 +105,7 @@
                 "open_issues": 4,
                 "owner": "Ikhyeon-Cho",
                 "repo": "LeSTA",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "elevation-mapping",
                   "mobile-robotics",
@@ -204,7 +204,7 @@
             "open_issues": 44,
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2378,
+            "stars": 2382,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -225,7 +225,7 @@
             "open_issues": 101,
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1872,
+            "stars": 1873,
             "topics": [
               "mapping",
               "robotics",
@@ -430,7 +430,7 @@
             "open_issues": 8,
             "owner": "roahmlab",
             "repo": "sel_map",
-            "stars": 158,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -634,7 +634,7 @@
             "open_issues": 11,
             "owner": "leggedrobotics",
             "repo": "traversability_estimation",
-            "stars": 514,
+            "stars": 515,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:34:02.596Z",
+    "last_updated": "2026-09-24T09:34:09.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
