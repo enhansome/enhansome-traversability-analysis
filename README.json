@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "gpu",
                   "motion-planning",
@@ -204,7 +204,7 @@
             "open_issues": 41,
             "owner": "OctoMap",
             "repo": "octomap",
-            "stars": 2384,
+            "stars": 2385,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -225,7 +225,7 @@
             "open_issues": 101,
             "owner": "ANYbotics",
             "repo": "elevation_mapping",
-            "stars": 1876,
+            "stars": 1877,
             "topics": [
               "mapping",
               "robotics",
@@ -282,7 +282,7 @@
             "open_issues": 82,
             "owner": "autonomousvision",
             "repo": "occupancy_networks",
-            "stars": 1665,
+            "stars": 1666,
             "topics": []
           },
           "first_seen": "2026-08-28T16:56:59.628Z"
@@ -733,7 +733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:15:39.199Z",
+    "last_updated": "2026-09-29T10:55:13.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
@@ -745,7 +745,7 @@
       "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 166,
+      "stars": 167,
       "topics": [
         "awesome-list",
         "robotic-perception",
