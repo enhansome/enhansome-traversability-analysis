@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "gpu",
                   "motion-planning",
@@ -51,7 +51,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 318,
+                "stars": 319,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -141,7 +141,7 @@
                 "open_issues": 3,
                 "owner": "matval",
                 "repo": "wayfaster",
-                "stars": 84,
+                "stars": 85,
                 "topics": [
                   "off-road-navigation",
                   "python",
@@ -202,7 +202,7 @@
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2387,
+                    "stars": 2388,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -223,7 +223,7 @@
                     "open_issues": 101,
                     "owner": "ANYbotics",
                     "repo": "elevation_mapping",
-                    "stars": 1879,
+                    "stars": 1880,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -692,7 +692,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1946,
+                "stars": 1947,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:22:15.637Z",
+    "last_updated": "2026-10-08T11:38:06.443Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
