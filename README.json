@@ -202,7 +202,7 @@
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2388,
+                    "stars": 2389,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -223,7 +223,7 @@
                     "open_issues": 101,
                     "owner": "ANYbotics",
                     "repo": "elevation_mapping",
-                    "stars": 1880,
+                    "stars": 1881,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -692,7 +692,7 @@
                 "open_issues": 14,
                 "owner": "youngguncho",
                 "repo": "awesome-slam-datasets",
-                "stars": 1947,
+                "stars": 1948,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T11:38:06.443Z",
+    "last_updated": "2026-10-09T11:31:37.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
@@ -774,7 +774,7 @@
       "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 169,
+      "stars": 170,
       "topics": [
         "awesome-list",
         "robotic-perception",
