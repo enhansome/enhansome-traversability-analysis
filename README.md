@@ -122,7 +122,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,390 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,391 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,882 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
@@ -154,7 +154,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Uncertainty & risk estimation</summary>
 
-* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 159 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
+* [These Maps are Made for Walking: Real-Time Terrain Property Estimation for Mobile Robots](https://ieeexplore.ieee.org/abstract/document/9792203/), Ewen et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2205.12925) | [bibtex](./terrain_traversability_analysis.bib#L184-L193) | [Github](https://github.com/roahmlab/sel_map) ⭐ 160 | 🐛 8 | 🌐 C++ | 📅 2025-08-05
 
 * [Active Traversability Learning via Risk-Aware Information Gathering for Planetary Exploration Rovers](https://ieeexplore.ieee.org/abstract/document/9894664/), Endo et al., RA-L 2022 | [bibtex](./terrain_traversability_analysis.bib#L166-L175)
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
