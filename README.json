@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 319,
+                "stars": 320,
                 "topics": [
                   "gpu",
                   "motion-planning",
@@ -223,7 +223,7 @@
                     "open_issues": 101,
                     "owner": "ANYbotics",
                     "repo": "elevation_mapping",
-                    "stars": 1882,
+                    "stars": 1885,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -653,7 +653,7 @@
                     "open_issues": 11,
                     "owner": "leggedrobotics",
                     "repo": "traversability_estimation",
-                    "stars": 515,
+                    "stars": 514,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:02:22.044Z",
+    "last_updated": "2026-10-12T12:28:28.260Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
