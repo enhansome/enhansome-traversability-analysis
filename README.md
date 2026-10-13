@@ -59,7 +59,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 186 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
-* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 118 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
+* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 119 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
 
 * [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2024-06-20
 
@@ -124,9 +124,9 @@ Keep updating... Any PRs are welcome! 😃
 
 * [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,391 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 
-* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,885 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
+* [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,888 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
-* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,673 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
+* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,674 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
 </details>
 
@@ -192,7 +192,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Image segmentation </summary>
 
-* [GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments](https://ieeexplore.ieee.org/abstract/document/9810192/), Guan et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2103.04233) | [bibtex](./terrain_traversability_analysis.bib#L280-L289) | [Github](https://github.com/rayguan97/GANav-offroad) ⭐ 155 | 🐛 0 | 🌐 Python | 📅 2025-01-21
+* [GA-Nav: Efficient Terrain Segmentation for Robot Navigation in Unstructured Outdoor Environments](https://ieeexplore.ieee.org/abstract/document/9810192/), Guan et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2103.04233) | [bibtex](./terrain_traversability_analysis.bib#L280-L289) | [Github](https://github.com/rayguan97/GANav-offroad) ⭐ 156 | 🐛 0 | 🌐 Python | 📅 2025-01-21
 
 * [TerraPN: Unstructured Terrain Navigation using Online Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9981942/), Sathyamoorthy et al., IROS 2022 | [arXiv](https://arxiv.org/abs/2202.12873) | [bibtex](./terrain_traversability_analysis.bib#L291-L298) | [Github](https://github.com/AdarshJS/terrapn) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2023-08-04
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
