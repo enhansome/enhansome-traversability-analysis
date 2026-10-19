@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 321,
+                "stars": 322,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -202,7 +202,7 @@
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2391,
+                    "stars": 2392,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -223,7 +223,7 @@
                     "open_issues": 101,
                     "owner": "ANYbotics",
                     "repo": "elevation_mapping",
-                    "stars": 1891,
+                    "stars": 1892,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:07:41.160Z",
+    "last_updated": "2026-10-19T10:19:21.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
