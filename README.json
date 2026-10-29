@@ -84,7 +84,7 @@
                 "open_issues": 5,
                 "owner": "abeleinin",
                 "repo": "gp-navigation",
-                "stars": 188,
+                "stars": 189,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -202,7 +202,7 @@
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2396,
+                    "stars": 2398,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -223,7 +223,7 @@
                     "open_issues": 101,
                     "owner": "ANYbotics",
                     "repo": "elevation_mapping",
-                    "stars": 1897,
+                    "stars": 1898,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -747,7 +747,7 @@
                 "open_issues": 13,
                 "owner": "robot-pesg",
                 "repo": "BotanicGarden",
-                "stars": 309,
+                "stars": 310,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:51:10.752Z",
+    "last_updated": "2026-10-29T11:07:38.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
