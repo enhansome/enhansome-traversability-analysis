@@ -55,7 +55,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Fast Traversability Estimation for Wild Visual Navigation](https://www.roboticsproceedings.org/rss19/p054.html), Frey et al., RSS 2023  | [arXiv](https://arxiv.org/abs/2305.08510) | [bibtex](./traversability-papers-2023-2024.bib#L109-L114) | [Github](https://github.com/leggedrobotics/wild_visual_navigation) ⭐ 326 | 🐛 9 | 🌐 Python | 📅 2026-05-27
 
-* [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 321 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
+* [Probabilistic Traversability Model for Risk-Aware Motion Planning in Off-Road Environments](https://ieeexplore.ieee.org/abstract/document/10341350?casa_token=_DR0F3T-v2AAAAAA:5y33BO40ZgI59d21sLqW25-Xk6-XIo4fzkQhJHq4ebyRJUSm8ThI21VISBTkbcGOjDLj84eY), Cai et al., IROS 2023 | [arXiv](https://arxiv.org/abs/2210.00153) | [bibtex](./traversability-papers-2023-2024.bib#L67-L74) | [Github](https://github.com/mit-acl/mppi_numba) ⭐ 322 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-08-23
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 189 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
@@ -122,7 +122,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,399 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,400 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⭐ 1,900 | 🐛 101 | 🌐 C++ | 📅 2024-11-04
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
