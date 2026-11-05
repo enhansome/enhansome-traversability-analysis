@@ -105,7 +105,7 @@
                 "open_issues": 4,
                 "owner": "Ikhyeon-Cho",
                 "repo": "LeSTA",
-                "stars": 123,
+                "stars": 125,
                 "topics": [
                   "elevation-mapping",
                   "mobile-robotics",
@@ -281,7 +281,7 @@
                     "open_issues": 82,
                     "owner": "autonomousvision",
                     "repo": "occupancy_networks",
-                    "stars": 1670,
+                    "stars": 1669,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T12:35:51.817Z",
+    "last_updated": "2026-11-05T12:46:38.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
@@ -774,7 +774,7 @@
       "open_issues": 1,
       "owner": "Ikhyeon-Cho",
       "repo": "awesome-traversability-analysis",
-      "stars": 172,
+      "stars": 174,
       "topics": [
         "awesome-list",
         "robotic-perception",

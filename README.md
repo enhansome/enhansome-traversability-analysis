@@ -59,7 +59,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 191 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
-* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 123 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
+* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 125 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
 
 * [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2024-06-20
 
@@ -133,7 +133,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Terrain Representation Learning </summary>
 
-* [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html), Mescheder et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1812.03828) | [bibtex](./terrain_traversability_analysis.bib#L90-L96) | [Github](https://github.com/autonomousvision/occupancy_networks) ⭐ 1,670 | 🐛 82 | 🌐 Python | 📅 2023-06-27
+* [Occupancy Networks: Learning 3D Reconstruction in Function Space](https://openaccess.thecvf.com/content_CVPR_2019/html/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.html), Mescheder et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1812.03828) | [bibtex](./terrain_traversability_analysis.bib#L90-L96) | [Github](https://github.com/autonomousvision/occupancy_networks) ⭐ 1,669 | 🐛 82 | 🌐 Python | 📅 2023-06-27
 
 * [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html), Part et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1901.05103) | [bibtex](./terrain_traversability_analysis.bib#L109-L115) | [Github](https://github.com/facebookresearch/DeepSDF) ⚠️ Archived
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
