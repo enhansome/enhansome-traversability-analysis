@@ -143,7 +143,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Reconstructing Occluded Elevation Information in Terrain Maps With Self-Supervised Learning](https://ieeexplore.ieee.org/abstract/document/9676411/), Stolzle et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2109.07150) | [bibtex](./terrain_traversability_analysis.bib#L139-L148) | [Github](https://github.com/mstoelzle/solving-occlusion) ⭐ 57 | 🐛 6 | 🌐 Python | 📅 2023-03-01
 
-* [Bayesian generalized kernel inference for terrain traversability mapping](http://proceedings.mlr.press/v87/shan18a.html), Shan et al., CoRL 2018 | [arXiv](https://arxiv.org/abs/2301.00523) | [bibtex](./terrain_traversability_analysis.bib#L150-L157) | [Github](https://github.com/TixiaoShan/BGK_traversability_mapping) ⭐ 33 | 🐛 3 | 🌐 C++ | 📅 2019-04-28
+* [Bayesian generalized kernel inference for terrain traversability mapping](http://proceedings.mlr.press/v87/shan18a.html), Shan et al., CoRL 2018 | [arXiv](https://arxiv.org/abs/2301.00523) | [bibtex](./terrain_traversability_analysis.bib#L150-L157) | [Github](https://github.com/TixiaoShan/BGK_traversability_mapping) ⭐ 34 | 🐛 3 | 🌐 C++ | 📅 2019-04-28
 
 * [Real-Time Neural Dense Elevation Mapping for Urban Terrain With Uncertainty Estimations](https://ieeexplore.ieee.org/abstract/document/9992063/), Yang et al., RA-L 2022 | [arXiv](https://arxiv.org/abs/2208.03467) | [bibtex](./terrain_traversability_analysis.bib#L117-L126)
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
