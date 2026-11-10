@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "gpu",
                   "motion-planning",
@@ -302,7 +302,7 @@
                     "open_issues": 62,
                     "owner": "facebookresearch",
                     "repo": "DeepSDF",
-                    "stars": 1562,
+                    "stars": 1561,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T13:24:31.111Z",
+    "last_updated": "2026-11-10T13:01:21.250Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
