@@ -202,7 +202,7 @@
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2401,
+                    "stars": 2402,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -213,7 +213,7 @@
                   "description": ", Fankhauser et al., RA-L 2018 | bibtex | Github",
                   "children": [],
                   "repo_info": {
-                    "archived": false,
+                    "archived": true,
                     "description": "Robot-centric elevation mapping for rough terrain navigation",
                     "homepage": null,
                     "id": 19574322,
@@ -249,7 +249,7 @@
                     "open_issues": 77,
                     "owner": "ethz-asl",
                     "repo": "voxblox",
-                    "stars": 1684,
+                    "stars": 1685,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T13:10:23.369Z",
+    "last_updated": "2026-11-17T13:53:14.679Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
