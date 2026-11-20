@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "leggedrobotics",
                 "repo": "wild_visual_navigation",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "computer-vision",
                   "field-robotics",
@@ -54,7 +54,7 @@
                 "open_issues": 2,
                 "owner": "mit-acl",
                 "repo": "mppi_numba",
-                "stars": 322,
+                "stars": 321,
                 "topics": [
                   "gpu",
                   "motion-planning",
@@ -202,7 +202,7 @@
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2405,
+                    "stars": 2406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -249,7 +249,7 @@
                     "open_issues": 77,
                     "owner": "ethz-asl",
                     "repo": "voxblox",
-                    "stars": 1686,
+                    "stars": 1687,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -281,7 +281,7 @@
                     "open_issues": 82,
                     "owner": "autonomousvision",
                     "repo": "occupancy_networks",
-                    "stars": 1669,
+                    "stars": 1667,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -427,7 +427,7 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2025-08-05T02:30:56Z",
-                    "open_issues": 8,
+                    "open_issues": 9,
                     "owner": "roahmlab",
                     "repo": "sel_map",
                     "stars": 161,
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T13:56:45.663Z",
+    "last_updated": "2026-11-20T13:38:29.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
