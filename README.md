@@ -59,7 +59,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Gaussian Process-Based Traversability Analysis for Terrain Mapless Navigation](), Leininger et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2403.19010) | [bibtex](./traversability-papers-2023-2024.bib#L144-L149) | [Github](https://github.com/abeleinin/gp-navigation) ⭐ 190 | 🐛 5 | 🌐 Python | 📅 2024-10-25
 
-* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 130 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
+* [Learning Self-Supervised Traversability With Navigation Experiences of Mobile Robots: A Risk-Aware Self-Training Approach](https://ieeexplore.ieee.org/document/10468651), Cho et al., RA-L 2024| [bibtex](./traversability-papers-2023-2024.bib#L9-L15) | [Github](https://github.com/Ikhyeon-Cho/LeSTA) ⭐ 131 | 🐛 4 | 🌐 C++ | 📅 2026-09-04
 
 * [WayFASTER: A Self-Supervised Traversability Prediction for Increased Navigation Awareness](), Gasparino et al., ICRA 2024 | [arXiv](https://arxiv.org/abs/2402.00683) | [bibtex](./traversability-papers-2023-2024.bib#L137-L142) | [Github](https://github.com/matval/wayfaster) ⭐ 85 | 🐛 3 | 🌐 Python | 📅 2024-06-20
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
