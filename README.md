@@ -122,11 +122,11 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,406 | 🐛 41 | 🌐 C++ | 📅 2026-09-26
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,405 | 🐛 41 | 🌐 C++ | 📅 2026-11-22
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⚠️ Archived
 
-* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,687 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
+* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,688 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
 </details>
 
@@ -261,7 +261,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Traditional Planning & Control </summary>
 
-* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 521 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
+* [Navigation Planning for Legged Robots in Challenging Terrain](https://ieeexplore.ieee.org/abstract/document/7759199/), Wermelinger et al., IROS 2016 | [bibtex](./terrain_traversability_analysis.bib#L530-L539) | [Github](https://github.com/leggedrobotics/traversability_estimation) ⭐ 522 | 🐛 11 | 🌐 C++ | 📅 2024-06-09
 
 * [Exploration of 3D terrains using potential fields with elevation-based local distortions](https://ieeexplore.ieee.org/abstract/document/9197577), Maffei et al., ICRA 2020 | [bibtex](./terrain_traversability_analysis.bib#L490-L497)
 
@@ -295,11 +295,11 @@ See more datasets at:
 
 ### Off-road (Unstructured) terrains
 
-* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 315 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
+* [BotanicGarden](https://github.com/robot-pesg/BotanicGarden) ⭐ 317 | 🐛 13 | 🌐 Jupyter Notebook | 📅 2025-09-14 : Stereo camera images, LiDAR pointclouds, GPS/IMU, Wheel encoders
 * [RELLIS-3D](https://www.unmannedlab.org/research/RELLIS-3D) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 * [RUGD](http://rugd.vision/) : Video dataset annotated with pixel-wise labels
 * [GOOSE](https://goose-dataset.de/) : Data with Stereo Camera images, LiDAR pointclouds, GPS/IMU
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
