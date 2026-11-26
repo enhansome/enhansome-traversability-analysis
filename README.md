@@ -122,11 +122,11 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Dense Terrain Modeling </summary>
 
-* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,405 | 🐛 41 | 🌐 C++ | 📅 2026-11-24
+* [OctoMap: An efficient probabilistic 3D mapping framework based on octrees](https://link.springer.com/article/10.1007/s10514-012-9321-0), Hornung et al., Autonomous Robots 2013 | [bibtex](./terrain_traversability_analysis.bib#L71-L79) | [Github](https://github.com/OctoMap/octomap) ⭐ 2,406 | 🐛 41 | 🌐 C++ | 📅 2026-11-25
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⚠️ Archived
 
-* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,689 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
+* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,690 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
 </details>
 
@@ -137,7 +137,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation](http://openaccess.thecvf.com/content_CVPR_2019/html/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.html), Part et al., CVPR 2019 | [arXiv](https://arxiv.org/abs/1901.05103) | [bibtex](./terrain_traversability_analysis.bib#L109-L115) | [Github](https://github.com/facebookresearch/DeepSDF) ⚠️ Archived
 
-* [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](), Zhao et al., arXiv 2024 | [arXiv](https://arxiv.org/abs/2404.06605) | [bibtex](./terrain_traversability_analysis.bib#L159-L164) | [Github](https://github.com/ztsrxh/RoadBEV) ⭐ 225 | 🐛 7 | 🌐 Python | 📅 2024-11-27
+* [RoadBEV: Road Surface Reconstruction in Bird’s Eye View](), Zhao et al., arXiv 2024 | [arXiv](https://arxiv.org/abs/2404.06605) | [bibtex](./terrain_traversability_analysis.bib#L159-L164) | [Github](https://github.com/ztsrxh/RoadBEV) ⭐ 226 | 🐛 7 | 🌐 Python | 📅 2024-11-27
 
 * [Learning-aided 3-D occupancy mapping with Bayesian generalized kernel inference](https://ieeexplore.ieee.org/abstract/document/8713569), Doherty et al., T-RO 2019 | [bibtex](./terrain_traversability_analysis.bib#L98-L107) | [Github](https://github.com/RobustFieldAutonomyLab/la3dm) ⭐ 135 | 🐛 2 | 🌐 C++ | 📅 2023-11-24
 
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

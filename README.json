@@ -198,11 +198,11 @@
                     "id": 7222017,
                     "language": "C++",
                     "license": null,
-                    "last_commit": "2026-11-24T21:00:32Z",
+                    "last_commit": "2026-11-25T17:39:20Z",
                     "open_issues": 41,
                     "owner": "OctoMap",
                     "repo": "octomap",
-                    "stars": 2405,
+                    "stars": 2406,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -249,7 +249,7 @@
                     "open_issues": 77,
                     "owner": "ethz-asl",
                     "repo": "voxblox",
-                    "stars": 1689,
+                    "stars": 1690,
                     "topics": [
                       "mapping",
                       "robotics",
@@ -323,7 +323,7 @@
                     "open_issues": 7,
                     "owner": "ztsrxh",
                     "repo": "RoadBEV",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:56:59.628Z"
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:59:40.026Z",
+    "last_updated": "2026-11-26T14:30:15.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 A curated list of papers, tools, and libraries for traversability analysis and terrain classification, segmentation in robotic navigation",
