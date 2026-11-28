@@ -126,7 +126,7 @@ Keep updating... Any PRs are welcome! 😃
 
 * [Probabilistic Terrain Mapping for Mobile Robots With Uncertain Localization](https://ieeexplore.ieee.org/document/8392399), Fankhauser et al., RA-L 2018 | [bibtex](./terrain_traversability_analysis.bib#L60-L69) | [Github](https://github.com/ANYbotics/elevation_mapping) ⚠️ Archived
 
-* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,690 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
+* [Voxblox: Incremental 3D Euclidean Signed Distance Fields for On-Board MAV Planning](https://ieeexplore.ieee.org/abstract/document/8202315), Oleynikova et al., IROS 2017 | [arXiv](https://arxiv.org/abs/1611.03631) | [bibtex](./terrain_traversability_analysis.bib#L81-L88) | [Github](https://github.com/ethz-asl/voxblox) ⭐ 1,691 | 🐛 77 | 🌐 C++ | 📅 2024-07-01
 
 </details>
 
@@ -207,7 +207,7 @@ Keep updating... Any PRs are welcome! 😃
 <details open>
 <summary>Learning from demonstration</summary>
 
-* [Safe Robot Navigation via Multi-Modal Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/8963641/), Wellhausen et al., RA-L 2020 | [arXiv](https://arxiv.org/abs/2001.07934) | [bibtex](./terrain_traversability_analysis.bib#L340-L349) | [Github](https://github.com/leggedrobotics/anomaly_navigation) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2020-01-14
+* [Safe Robot Navigation via Multi-Modal Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/8963641/), Wellhausen et al., RA-L 2020 | [arXiv](https://arxiv.org/abs/2001.07934) | [bibtex](./terrain_traversability_analysis.bib#L340-L349) | [Github](https://github.com/leggedrobotics/anomaly_navigation) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2020-01-14
 
 * [GONet: A Semi-Supervised Deep Learning Approach For Traversability Estimation](https://ieeexplore.ieee.org/abstract/document/8594031/), Hirose et al., IROS 2018 | [arXiv](https://arxiv.org/abs/1803.03254) | [bibtex](./terrain_traversability_analysis.bib#362-L369) | [Github](https://github.com/NHirose/GONET) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2018-10-26
 
@@ -290,7 +290,7 @@ Keep updating... Any PRs are welcome! 😃
 
 See more datasets at:
 
-* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,951 | 🐛 14 | 📅 2024-12-13
+* [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets) ⭐ 1,952 | 🐛 14 | 📅 2024-12-13
 * [awesome-autonomous-driving-dataasets](https://github.com/lhyfst/awesome-autonomous-driving-datasets) ⭐ 52 | 🐛 0 | 📅 2019-10-08
 
 ### Off-road (Unstructured) terrains
@@ -302,4 +302,4 @@ See more datasets at:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
